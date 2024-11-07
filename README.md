@@ -47,4 +47,11 @@ query_id=AA....
 user=%7B%22id%....
 ```
 7. add it to `query.txt` file or create it if you dont have one
+## Disclaimer
+
+This bot is **for personal use only** and is intended solely for the creator. By using this bot, you acknowledge that you are solely responsible for any consequences that may arise, including but not limited to account bans, restrictions, or any other issues resulting from its use.
+
+I am **not responsible** for any damage, loss of access, or violations that may occur while using this bot. By running the bot, you accept the risks and understand that you are using it at your own discretion. It is recommended to use this bot only on accounts that are not critical and that you are willing to risk.
+
+Use at your own risk.
 
