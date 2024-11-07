@@ -4,7 +4,7 @@ An automation bot for Fabrika Friends Factory that includes Auto Claim and Auto 
 
 You can download the latest version of **Fabrika-Bot-Claimer** by clicking the button below:
 
-<a href="https://github.com/notadminn/Fabrika-Bot-Claimer/releases/tag/v1.0.0" target="_blank">
+<a href="https://github.com/notadminn/Fabrika-Bot-Claimer/releases/tag/v1.0.2" target="_blank">
   <img src="https://img.shields.io/badge/Download-v1.0.0-blue?style=for-the-badge" alt="Download Release">
 </a>
 
