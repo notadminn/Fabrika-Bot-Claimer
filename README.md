@@ -47,11 +47,13 @@ query_id=AA....
 user=%7B%22id%....
 ```
 7. add it to `query.txt` file or create it if you dont have one
+
 ## Disclaimer
 
-This bot is **for personal use only** and is intended solely for the creator. By using this bot, you acknowledge that you are solely responsible for any consequences that may arise, including but not limited to account bans, restrictions, or any other issues resulting from its use.
+This bot is **private** and **for personal use only**. By using this bot, you acknowledge that you are doing so at your own risk. I am not responsible for any consequences, including but not limited to account bans, suspensions, or any other issues that may arise from using this bot.
 
-I am **not responsible** for any damage, loss of access, or violations that may occur while using this bot. By running the bot, you accept the risks and understand that you are using it at your own discretion. It is recommended to use this bot only on accounts that are not critical and that you are willing to risk.
+Please be aware that the bot may be flagged by antivirus software due to the use of **PyInstaller** during the packaging process,  you may need to whitelist it in your antivirus software if it gets flagged.
 
-Use at your own risk.
+Use the bot responsibly, and make sure you comply with the terms of service of any platform you interact with.
+
 
