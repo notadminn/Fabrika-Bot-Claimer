@@ -1,5 +1,12 @@
 # Fabrika-Bot-Claimer
 An automation bot for Fabrika Friends Factory that includes Auto Claim and Auto Farm functionalities. Simple setup for Windows users.
+## Download the Latest Release
+
+You can download the latest version of **Fabrika-Bot-Claimer** by clicking the button below:
+
+<a href="https://github.com/notadminn/Fabrika-Bot-Claimer/releases/tag/v1.0.0" target="_blank">
+  <img src="https://img.shields.io/badge/Download-v1.0.0-blue?style=for-the-badge" alt="Download Release">
+</a>
 
 ## Features
 
